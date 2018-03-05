@@ -1,0 +1,91 @@
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie babelkowe		10		Uzupelnona losowo			81		20
+Sortowanie babelkowe		10		Posortowana rosnaco			9		0
+Sortowanie babelkowe		10		Posortowana malejaco			90		41
+Sortowanie babelkowe		10		Czesciowo posortowana(10% zle)		90		15
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie babelkowe		10		Uzupelnona losowo			81			28
+Sortowanie babelkowe		10		Posortowana rosnaco			9			0
+Sortowanie babelkowe		10		Posortowana malejaco			90			43
+Sortowanie babelkowe		10		Czesciowo posortowana(10% zle)		90			16
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie babelkowe		1000		Uzupelnona losowo			973026			242170
+Sortowanie babelkowe		1000		Posortowana rosnaco			999			0
+Sortowanie babelkowe		1000		Posortowana malejaco			999000			499442
+Sortowanie babelkowe		1000		Czesciowo posortowana(10% zle)		999000			169991
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie koktajlowe		100		Uzupelnona losowo			3822			2291
+Sortowanie koktajlowe		100		Posortowana rosnaco			99			0
+Sortowanie koktajlowe		100		Posortowana malejaco			4950			4922
+Sortowanie koktajlowe		100		Czesciowo posortowana(10% zle)		1869			1696
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie kubelkowe		100		Uzupelnona losowo			2			100
+Sortowanie kubelkowe		100		Posortowana rosnaco			74			100
+Sortowanie kubelkowe		100		Posortowana malejaco			0			100
+Sortowanie kubelkowe		100		Czesciowo posortowana(10% zle)		0			100
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie szybkie ver. Lemuto		50		Uzupelnona losowo			338			175
+Sortowanie szybkie ver. Lemuto		50		Posortowana rosnaco			1073			52
+Sortowanie szybkie ver. Lemuto		50		Posortowana malejaco			1135			628
+Sortowanie szybkie ver. Lemuto		50		Czesciowo posortowana(10% zle)		937			221
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie przez kopcowanie		59		Uzupelnona losowo			593			306
+Sortowanie przez kopcowanie		59		Posortowana rosnaco			670			329
+Sortowanie przez kopcowanie		59		Posortowana malejaco			488			265
+Sortowanie przez kopcowanie		59		Czesciowo posortowana(10% zle)		618			313
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie przez zliczanie		432		Uzupelnona losowo			2			432
+Sortowanie przez zliczanie		432		Posortowana rosnaco			69			432
+Sortowanie przez zliczanie		432		Posortowana malejaco			1			432
+Sortowanie przez zliczanie		432		Czesciowo posortowana(10% zle)		1			432
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie przez zliczanie		10		Uzupelnona losowo			1			10
+Sortowanie przez zliczanie		10		Posortowana rosnaco			5			10
+Sortowanie przez zliczanie		10		Posortowana malejaco			1			10
+Sortowanie przez zliczanie		10		Czesciowo posortowana(10% zle)		1			10
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie przez kopcowanie		1		Uzupelnona losowo			0			1
+Sortowanie przez kopcowanie		1		Posortowana rosnaco			0			1
+Sortowanie przez kopcowanie		1		Posortowana malejaco			0			1
+Sortowanie przez kopcowanie		1		Czesciowo posortowana(10% zle)		0			1
+
+
+Nazwa metody sortowania		Dlugosc tablicy		Rodzaj tablicy       	 Liczba porownan	 Liczba przestawien
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sortowanie szybkie ver. Lemuto		6		Uzupelnona losowo			13			6
+Sortowanie szybkie ver. Lemuto		6		Posortowana rosnaco			20			5
+Sortowanie szybkie ver. Lemuto		6		Posortowana malejaco			23			14
+Sortowanie szybkie ver. Lemuto		6		Czesciowo posortowana(10% zle)		20			5
+
